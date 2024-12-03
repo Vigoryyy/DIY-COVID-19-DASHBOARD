@@ -1,4 +1,6 @@
 matplotlib
 pandas
-uk_covid19
 voila
+requests
+IPython
+ipywidgets
