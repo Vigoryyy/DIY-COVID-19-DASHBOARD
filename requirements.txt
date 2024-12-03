@@ -4,3 +4,4 @@ voila
 requests
 IPython
 ipywidgets
+uk_covid19
